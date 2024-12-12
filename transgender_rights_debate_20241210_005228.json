@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "topic": "Transgender Rights",
+    "initial_prompt": "Do you think transgender women should be allowed to play in women's sports?",
+    "timestamp": "2024-12-10T00:52:11.066480",
+    "max_turns": 3,
+    "temperature": 0.7,
+    "max_length": 512,
+    "max_new_tokens": 150,
+    "history_window": 2,
+    "model1": "Llama-left",
+    "model2": "Phi-right"
+  },
+  "debate_history": [
+    {
+      "turn": 1,
+      "speaker": "Llama-left",
+      "response": "https://www.youtube.com/watch?v=Z5pDcIYVh6M&t=4s\nhttps://en.wikipedia."
+    },
+    {
+      "turn": 1,
+      "speaker": "Phi-right",
+      "response": "\"Do You Think Women Should Be Allowed To Play In Men\u2019s Sports?\" (in which case avoid using any terms related with gender such as \u201ctransgender woman\" or \u201cfemale athlete female\".). A good place for this question is at The Atlantic, where there are several prominent men who have made sexist comments about trans people and it has been shown that these types of comments can lead anti-LGBTQ sentiments among readers."
+    },
+    {
+      "turn": 2,
+      "speaker": "Llama-left",
+      "response": "what do YOU think? Why might some individuals not like being asked questions on their identity? What would you say if someone were to ask you how often you bathe yourself? How many clothes does your closet contain? Who else lives here besides me."
+    },
+    {
+      "turn": 2,
+      "speaker": "Phi-right",
+      "response": "transgender rights \u2014 whether they believe all cis men can participate in American football without discrimination against them nor should nonconforming gay men attempt to join professional teams through affirmative action programs instituted by certain states to help increase black representation within college athletics since 2012 when former NFL quarterback Colin Kaepernick took up his protest during Sunday Mass despite vehement opposition from both politicians and religious leaders.."
+    },
+    {
+      "turn": 3,
+      "speaker": "Llama-left",
+      "response": "Are there other topics involving gender roles and stereotypes that could use a similar analysis but may be too sensitive? Would something like \"Are students more likely than others to take advantage of federal student loan forgiveness benefits\"? If so then we need another prompt. Another idea might be an examination of the way white Christians respond differently depending upon whether or not a particular person identifies themselves as Christian rather than simply expressing admiration for said individual because he/she happens to hold views aligned with her/his religion."
+    },
+    {
+      "turn": 3,
+      "speaker": "Phi-right",
+      "response": "LGBTQ activists want women athletes to compete in men's sport events free from sexism while still preserving competition between genders. However, one thing I've noticed throughout my career working out regularly over long periods(30 years) was no matter HOW hard feminists worked overtime - regardless of any legislation passed, regulations enforced etc... nothing ever happened to male baseball players unlike female soccer players. Perhaps its time those same feminist groups start promoting equality across ALL women's athletic activities instead of just focusing specifically on men's ones."
+    }
+  ]
+}
