@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "topic": "Transgender Rights",
+    "initial_prompt": "Do you think transgender women should be allowed to play in women's sports?",
+    "timestamp": "2024-12-10T00:35:33.352015",
+    "max_turns": 3,
+    "temperature": 0.7,
+    "max_length": 512,
+    "max_new_tokens": 150,
+    "history_window": 2,
+    "model1": "Phi-left",
+    "model2": "Llama-right"
+  },
+  "debate_history": [
+    {
+      "turn": 1,
+      "speaker": "Phi-left",
+      "response": "\"Transgender people aren't human beings. Men are men.\" (Yes, I know it sounds ridiculous at first."
+    },
+    {
+      "turn": 1,
+      "speaker": "Llama-right",
+      "response": "Are there any other issues that deserve attention? What is your position on them and why do they matter so much to you?\" 1. The environment has been one of my most important topics for a while now because as an environmentalist who believes humans need to take action right away before we're too late, I have never felt more frustrated than when I see politicians wasting time debating whether or not transgenders can use public restrooms according to their gender identity instead of actually taking concrete actions like banning fracking or protecting endangered species from poachers..."
+    },
+    {
+      "turn": 2,
+      "speaker": "Phi-left",
+      "response": "Should transgender individuals be allowed access to athletic facilities such as locker rooms/counselors' offices if using these spaces goes against their self-identified sex assigned at birth but this would also mean allowing cisgender athletes with different body types into male restroom facilities which could lead some people being uncomfortable since traditionally female toilet stalls only accommodate those over 6 feet tall."
+    },
+    {
+      "turn": 2,
+      "speaker": "Llama-right",
+      "response": "Llamaright responded by saying that he doesn\u2019t believe anyone deserves special treatment just because they identify as something else rather than what\u2019s naturally occurring..."
+    },
+    {
+      "turn": 3,
+      "speaker": "Phi-left",
+      "response": "Trans rights\u2013especially women's rights\u2014by explaining how and for whom specific laws exist regarding bodily autonomy; anti-trans discrimination policy claims made via legislation surrounding health care, housing, education etc.; and specifically police brutality toward trans* folks during protests\u2026\u00a0how each group will respond to particular policies enacted within certain political spheres, namely executive branch vs. legislative process, state vs. federal government \u2026\u00a0and finally discuss potential ways forward concerning future policies pertaining to trans rights moving forward...."
+    },
+    {
+      "turn": 3,
+      "speaker": "Llama-right",
+      "response": "(10 total) In addition to providing background information about current events related to lllama_right \u2018s arguments, please consider responding directly to his ideas here without simply repeating what was already said earlier! Your response must address both sides equally...\u00a0\nDozens Of Women\u2019s Sports Organizations And Athletes Call For Transgender Athlete Rules To Be Overridden By Gender Equality Law\nThe decision comes after US Olympic Committee president Scott Blackmun said it had taken \u201cyears\u201d of deliberations to craft rules governing competition between biological males and females \u2013 including input from dozens of doctors involved in athletics across all levels \u2014 and slammed critics for suggesting otherwise."
+    }
+  ]
+}
